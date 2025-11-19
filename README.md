@@ -1,23 +1,23 @@
 # install semua security
 ```
-bash <(curl -s https://raw.githubusercontent.com/luxzdev02/petro/refs/heads/main/installprotectall.sh)
+bash <(curl -s https://raw.githubusercontent.com/luxzdev02/panel/refs/heads/main/installprotectall.sh)
 ```
 
 # INSTALL SECURITY
 ```
-bash <(curl -s https://raw.githubusercontent.com/luxzdev02/petro/refs/heads/main/security.sh)
+bash <(curl -s https://raw.githubusercontent.com/luxzdev02/panel/refs/heads/main/security.sh)
 ```
 
 # INSTALL SECURITY V2
 ```
-bash <(curl -s https://raw.githubusercontent.com/luxzdev02/petro/refs/heads/main/security-bot.sh)
+bash <(curl -s https://raw.githubusercontent.com/luxzdev02/panel/refs/heads/main/security-bot.sh)
 ```
 
 # INSTALL SECURITY V3
 ```
-bash <(curl -s https://raw.githubusercontent.com/luxzdev02/petro/refs/heads/main/security-v3.sh)
+bash <(curl -s https://raw.githubusercontent.com/luxzdev02/panel/refs/heads/main/security-v3.sh)
 ```
 # INSTALL SECURITY V4
 ```
-bash <(curl -s https://raw.githubusercontent.com/luxzdev02/petro/refs/heads/main/security-new.sh)
+bash <(curl -s https://raw.githubusercontent.com/luxzdev02/panel/refs/heads/main/security-new.sh)
 ```
