@@ -19,5 +19,5 @@ bash <(curl -s https://raw.githubusercontent.com/luxzdev02/petro/refs/heads/main
 ```
 # INSTALL SECURITY V4
 ```
-bash <(curl -s https://raw.githubusercontent.com/luxzdev02/petro/refs/heads/main/security-new.sh
+bash <(curl -s https://raw.githubusercontent.com/luxzdev02/petro/refs/heads/main/security-new.sh)
 ```
